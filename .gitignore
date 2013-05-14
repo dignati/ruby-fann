@@ -1,6 +1,8 @@
 *.gem
 *.rbc
 *.bundle
+*.net
+*.log
 .DS_Store
 .config
 coverage
